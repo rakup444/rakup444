@@ -5,7 +5,7 @@ My full name is *Raushan Kumar*.
  I’m looking to collaborate on HTML and CSS, and little bit of DSA in C.
 - Q. How to reach me ?
 - Ans. There are many ways:-
-  - Mention me in any issue on GitHub @rakup444.
+  - Mention me in any issue on GitHub @rakup4code.
   - linkedIn https://www.linkedin.com/in/raushan-kumar-337b86203/
   - mail - raushankumar847211@gmail.com
 
