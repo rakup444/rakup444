@@ -6,7 +6,7 @@ My full name is *Raushan Kumar*.
  
  I’m looking to collaborate on HTML and CSS, and little bit of DSA in C.
  
- I wrote a narative poem ["I won't let you go"]https://www.amazon.in/gp/product/B097MCZXXG/
+ I wrote a narative poem ["I won't let you go"]https:(//www.amazon.in/gp/product/B097MCZXXG/)
  
 - **Ways to reach me** ⤵
 >
