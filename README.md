@@ -10,7 +10,7 @@ My full name is *Raushan Kumar*.
  
 - **Ways to reach me** ⤵
 >
-  >👉 Mention me on GitHub: @rakup4code.
+  >👉 Mention me on GitHub: @rakupcode.
   >
   >👉 Follow on: 
      - [linkedIn](https://www.linkedin.com/in/rakup/)
