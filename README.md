@@ -2,9 +2,7 @@ Hi, I’m @rakup4code.
 My full name is *Raushan Kumar*.
  I’m interested in everything my life offers. To name a few I like music and literature, history, management, writting, etc.
  
- I’m currently learning C language, html, css, javascript, DSA, etc.
- 
- I’m looking to collaborate on HTML and CSS, and little bit of DSA in C.
+ Skills: C/C++, HTML, CSS, JavaScript, PHP, DSA, Dynamic Programming etc.
  
  I wrote a narative poem ["I won't let you go"](https://www.amazon.in/gp/product/B097MCZXXG/)
  
