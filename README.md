@@ -1,4 +1,4 @@
-Hi, I’m @rakup4code.
+Hi, I’m @rakupcode.
 My full name is *Raushan Kumar*.
  I’m interested in everything my life offers. To name a few I like music and literature, history, management, writting, etc.
  
